@@ -36,6 +36,14 @@ I'm a Computer Science student at **King Saud University** (Riyadh), with an int
   <img src="assets/badges/tcp-handshake.svg" alt="TCP Three-Way Handshake" />
 </p>
 
+### 📂 Projects
+
+<p align="left">
+  <a href="https://github.com/devBanaser/Python-Projects">
+    <img src="https://github-readme-stats-five-sigma-99.vercel.app/api/pin/?username=devBanaser&repo=Python-Projects&title_color=6a9f65&icon_color=387F32&text_color=a3aca2&hide_border=true&bg_color=00000000" alt="Python-Projects" />
+  </a>
+</p>
+
 ### 🔗 See my work at
 
 <p align="left">
