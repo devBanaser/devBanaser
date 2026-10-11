@@ -19,6 +19,7 @@ I'm a Computer Science student at **King Saud University** (Riyadh), with an int
 <p align="left">
   <img src="assets/badges/python.svg" alt="Python" />
   <img src="assets/badges/java.svg" alt="Java" />
+  <img src="assets/badges/web-development.svg" alt="Web Development" />
   <img src="assets/badges/wireshark.svg" alt="Wireshark" />
   <img src="assets/badges/nmap.svg" alt="Nmap" />
   <img src="assets/badges/vs-code.svg" alt="VS Code" />
